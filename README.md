@@ -32,7 +32,7 @@ ffmpeg
 
 - 更改训练参数及配置相关路径
 
-  ![1559136815232](assets\1559136815232.png)
+  ![1559136815232](assets/1559136815232.png)
 
 - 训练指令：
 
@@ -64,7 +64,7 @@ tensorboard --logdir my_logs/coviar/$YOUR FOLDER NAME$ --host 127.0.0.1 --port 1
 
 之后再浏览器查看即可
 
-![1559137006772](assets\1559137006772.png)
+![1559137006772](assets/1559137006772.png)
 
 
 
