@@ -23,7 +23,7 @@ ffmpeg
 
 - 初次训练时需要下载预训练[ResNet模型](https://drive.google.com/file/d/1ZGaswKgj8yKE6DAwpibl2LbuvU8-zGRH/view?usp=sharing)，并取消`i_resnet`,`r_resnet`, `mv_resnet`相关注释，用于读取预训练模型
 
-  ![1559136489350](C:\Users\Felix\Desktop\video action classification\assets/1559136489350.png)
+  ![1559136489350](assets/1559136489350.png)
 
 
 ## 训练
@@ -32,7 +32,7 @@ ffmpeg
 
 - 更改训练参数及配置相关路径
 
-  ![1559136815232](C:\Users\Felix\Desktop\video action classification\assets\1559136815232.png)
+  ![1559136815232](assets\1559136815232.png)
 
 - 训练指令：
 
@@ -64,7 +64,7 @@ tensorboard --logdir my_logs/coviar/$YOUR FOLDER NAME$ --host 127.0.0.1 --port 1
 
 之后再浏览器查看即可
 
-![1559137006772](C:\Users\Felix\Desktop\video action classification\assets\1559137006772.png)
+![1559137006772](assets\1559137006772.png)
 
 
 
